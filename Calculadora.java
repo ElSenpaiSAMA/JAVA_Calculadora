@@ -8,7 +8,7 @@ public class Calculadora extends JFrame {
 
     public Calculadora() {
         this.setSize(380, 500);
-        setTitle("MEJOR QUE LA ANTERIOR ESTA :)");
+        setTitle("Calculadora :)");
         setLocationRelativeTo(null);
         setMinimumSize(new Dimension(200, 200));
         pantalla = new JTextField();
